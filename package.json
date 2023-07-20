@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ara-framework/hypernova-vue.git"
+    "url": "https://github.com/mael-jarnole/hypernova-vue-3.git"
   },
   "devDependencies": {
     "@babel/runtime": "^7.22.6",
