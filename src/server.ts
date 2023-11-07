@@ -1,5 +1,5 @@
 import { createSSRApp, Component, Plugin } from 'vue';
-import { renderToString } from 'vue/server-renderer';
+import { renderToString } from '@vue/server-renderer';
 import hypernova, { serialize } from 'hypernova';
 import { Plugins } from './typings';
 
